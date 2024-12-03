@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+requests
+pyaudio
+python-dotenv
+langchain
+langchain_google_genai
+langchain_community
+deepgram-sdk
+bokeh
+streamlit-bokeh-events
+groq
